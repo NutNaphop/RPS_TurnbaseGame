@@ -13,12 +13,7 @@ Compile the game using your C++ compiler:
 ```bash
 g++ -o  main.cpp
 ```
-Run the game executable: 
-
-```bash
-./hangman
-```
-other ways 
+run game
 ```bash
 run main.exe
 ```
